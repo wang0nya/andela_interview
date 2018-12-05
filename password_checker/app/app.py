@@ -1,6 +1,7 @@
 import re
 
-# TODO: COMBINE ALL REGEX TO MAKE IT SHORTER -- app2.py
+# not checking for whitespace \s
+# TODO: shorter version -- combine all regex and match instead of search
 
 def check_password():
     while True:  
